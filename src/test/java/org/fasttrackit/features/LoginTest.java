@@ -30,5 +30,9 @@ public class LoginTest {
         loginSteps.typePassword("123456");
         loginSteps.clickLogin();
         loginSteps.userIsLoggedIn("Cosmin Fast");
+
     }
+
+
+
 }
